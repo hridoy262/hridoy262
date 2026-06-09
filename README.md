@@ -19,20 +19,13 @@ Database: MongoDB, SQL
 Tools: Git, Docker, VS Code
 ```
 
-## 📊 GitHub Stats
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hridoy262&theme=radical&show_icons=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hridoy262&theme=radical&layout=compact)
-
-</div>
 
 ## 🔗 Connect With Me
 
 - GitHub: [@hridoy262](https://github.com/hridoy262)
 - 💡 Open to collaboration and new opportunities
+- Gmail : mdhridoyahmed2626@gmail.com 
 
 ---
 
